@@ -8,12 +8,11 @@ const About = () => {
         <h2 className="text-amber-500 font-bold lg:px-14">Over ons</h2>
         <h1 className="text-2xl lg:text-4xl lg:px-14">Ons verhaal</h1>
         <div className="lg:text-lg lg:px-14">
-          Noorder Multidiensten, opgericht met een passie voor uitmuntendheid,
-          begon zijn reis met de toewijding om industrienormen opnieuw te
-          definiëren. Door de jaren heen zijn we uitgegroeid tot een betrouwbare
-          en innovatieve kracht, die bouw- en schoonmaakoplossingen naadloos
-          integreert om aan de uiteenlopende behoeften van onze klanten te
-          voldoen.
+          Noorder Multidiensten, opgericht met de toewijding om hoge normen te
+          handhaven. In de loop van de tijd zijn we uitgegroeid tot een
+          betrouwbare en vooruitstrevende entiteit, die op bekwame wijze bouw-
+          en schoonmaakoplossingen combineert om aan de uiteenlopende behoeften
+          van onze klanten te voldoen.
         </div>
       </div>
       <div className="flex flex-col lg:flex-row gap-2 lg:gap-24 bg-white p-4">
