@@ -41,6 +41,7 @@ const FooterTop = () => {
           <h4 className="text-lg lg:mt-0 text-amber-500">Menu</h4>
           {links.map((link) => (
             <Link
+              key={link.title}
               href={link.path}
               className={`${"w-fit font-medium text-start"} ${
                 pathName === link.path && "border-b-2"
