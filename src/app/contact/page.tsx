@@ -91,9 +91,9 @@ const Contact = () => {
             <p className="lg:text-lg font-bold">Email</p>
             <Link
               className="hover:underline"
-              href="mailto:info@noordermultidiensten.nl"
+              href="mailto:noordermultidiensten@gmail.com"
             >
-              info@noordermultidiensten.nl
+              noordermultidiensten@gmail.com
             </Link>
           </div>
         </div>

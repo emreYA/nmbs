@@ -38,14 +38,37 @@ export default function Home() {
           Uw vertrouwde partner in bouw en schoonmaak
         </h1>
         <div className="lg:text-lg lg:px-14">
-          Bij NMBS zijn we er trots op een dynamisch en veelzijdig
-          multiservicesbedrijf te zijn dat zich toelegt op het verbeteren van de
-          ruimtes waar u woont en werkt.
+          <div>
+            Bij NMBS zijn we er trots op een dynamisch en veelzijdig
+            multiservicesbedrijf te zijn dat zich toelegt op het verbeteren van
+            de ruimtes waar u woont en werkt.
+          </div>
           <div className="flex flex-row gap-5 mt-2">
             <Link href="/about" className={`rounded-none ${buttonVariants()}`}>
               Lees meer
             </Link>
           </div>
+        </div>
+      </div>
+      <div className="flex flex-col gap-2 mt-4 bg-white p-4">
+        <h2 className="text-amber-500 font-bold lg:px-14">Partner in bouw</h2>
+        <h2 className="text-2xl lg:text-4xl lg:px-14">Isoman Nederland</h2>
+        <div className="lg:px-14">
+          <Image
+            width={100}
+            height={100}
+            src="/isoman-logo.png"
+            alt="logo partner in bouw"
+          />
+        </div>
+        <div className="">
+          <p className="lg:text-lg lg:px-14">
+            Isoman Nederland is een gewaardeerde medewerker. Hun toewijding aan
+            kwaliteit sluit naadloos aan bij onze missie. Samen streven we
+            ernaar om uitstekende bouwoplossingen te leveren. Met een gedeelde
+            toewijding aan integriteit en klanttevredenheid speelt Isobouw een
+            cruciale rol in ons succesverhaal.
+          </p>
         </div>
       </div>
       <ServiceSection
