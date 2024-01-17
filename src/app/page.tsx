@@ -72,10 +72,10 @@ export default function Home() {
         </div>
       </div>
       <ServiceSection
-        image1Src="/bouw-dienst.jpeg" // Replace with the actual path to your image
-        image2Src="/schoonmaak-dienst.jpeg" // Replace with the actual path to your image
-        service1Link="/diensten" // Replace with the actual link to your service page
-        service2Link="/diensten" // Replace with the actual link to your service page
+        image1Src="/bouw-dienst.jpeg"
+        image2Src="/schoonmaak-dienst.jpeg"
+        service1Link="/diensten"
+        service2Link="/diensten"
         service1Text="Onze bouw diensten"
         service2Text="Onze schoonmaak diensten"
       />

@@ -62,10 +62,10 @@ const FooterTop = () => {
           <div className="text-lg flex flex-row gap-2">
             <Mail className="text-amber-500" />
             <Link
-              href="mailto:noordermultidiensten@gmail.com"
+              href="mailto:info@noordermultidiensten.nl"
               className="hover:underline"
             >
-              noordermultidiensten@gmail.com
+              info@noordermultidiensten.nl
             </Link>
           </div>
         </div>

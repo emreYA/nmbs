@@ -11,7 +11,7 @@ export async function POST(request: Request) {
       body;
     const data = await resend.emails.send({
       from: "request <onboarding@resend.dev>",
-      to: ["noordermultidiensten@gmail.com"],
+      to: ["info@noordermultidiensten.nl"],
       subject: "New Offerte",
       react: RequestEmail({
         name: name,
