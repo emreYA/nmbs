@@ -66,8 +66,8 @@ export default function Home() {
             Isoman Nederland is een gewaardeerde medewerker. Hun toewijding aan
             kwaliteit sluit naadloos aan bij onze missie. Samen streven we
             ernaar om uitstekende bouwoplossingen te leveren. Met een gedeelde
-            toewijding aan integriteit en klanttevredenheid speelt Isobouw een
-            cruciale rol in ons succesverhaal.
+            toewijding aan integriteit en klanttevredenheid speelt Isoman
+            Nederland een cruciale rol in ons succesverhaal.
           </p>
         </div>
       </div>
