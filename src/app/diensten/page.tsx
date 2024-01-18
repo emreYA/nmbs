@@ -25,7 +25,6 @@ const Diensten = () => {
               <li>Bibliotheken</li>
               <li>Gemeenschappelijke ruimtes</li>
               <li>Verzorgingstehuizen</li>
-              <li>Nieuwbouw projecten</li>
             </ul>
           </div>
         </div>
@@ -51,6 +50,7 @@ const Diensten = () => {
               <li>Groene bouwoplossingen</li>
               <li>Projectmanagement</li>
               <li>Hernieuwbare energie-installaties</li>
+              <li>Nieuwbouw projecten</li>
             </ul>
           </div>
         </div>
