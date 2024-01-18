@@ -63,7 +63,7 @@ export default function Home() {
         </div>
         <div className="">
           <p className="lg:text-lg lg:px-14">
-            Isoman Nederland is een gewaardeerde medewerker. Hun toewijding aan
+            Isoman Nederland is een gewaardeerde partner. Hun toewijding aan
             kwaliteit sluit naadloos aan bij onze missie. Samen streven we
             ernaar om uitstekende bouwoplossingen te leveren. Met een gedeelde
             toewijding aan integriteit en klanttevredenheid speelt Isoman

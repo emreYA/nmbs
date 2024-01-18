@@ -25,6 +25,7 @@ const Diensten = () => {
               <li>Bibliotheken</li>
               <li>Gemeenschappelijke ruimtes</li>
               <li>Verzorgingstehuizen</li>
+              <li>Nieuwbouw projecten</li>
             </ul>
           </div>
         </div>
