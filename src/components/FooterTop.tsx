@@ -4,6 +4,7 @@ import Link from "next/link";
 import React from "react";
 
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 
 const links = [
   {
@@ -66,6 +67,22 @@ const FooterTop = () => {
               className="hover:underline"
             >
               info@noordermultidiensten.nl
+            </Link>
+          </div>
+          <div className="border-t-2 border-white mt-4">
+            <p className="mb-2">Website gemaakt door:</p>
+            <Link
+              href="https://www.code-designer.nl/development"
+              target="_blank"
+              className="font-bold flex flex-row gap-1 items-center text-white"
+            >
+              <Image
+                src="/codedesigner.png"
+                alt="logo code designer"
+                width={25}
+                height={25}
+              />
+              Code Designer
             </Link>
           </div>
         </div>
